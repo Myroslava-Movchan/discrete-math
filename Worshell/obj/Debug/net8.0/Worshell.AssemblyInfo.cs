@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Worshell")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1106b53874e7abc7c0d119eebe246122168d977")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6997d798dbea76cb6255b3458cd3d564dfe8dbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Worshell")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Worshell")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
