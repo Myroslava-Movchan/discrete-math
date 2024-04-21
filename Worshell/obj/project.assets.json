@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\myros\\.nuget\\packages\\": {}
+    "C:\\Users\\A\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\myros\\RiderProjects\\Worshell\\Worshell\\Worshell.csproj",
+      "projectUniqueName": "C:\\Users\\A\\Documents\\GitHub\\discrete-math\\Worshell\\Worshell.csproj",
       "projectName": "Worshell",
-      "projectPath": "C:\\Users\\myros\\RiderProjects\\Worshell\\Worshell\\Worshell.csproj",
-      "packagesPath": "C:\\Users\\myros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\myros\\RiderProjects\\Worshell\\Worshell\\obj\\",
+      "projectPath": "C:\\Users\\A\\Documents\\GitHub\\discrete-math\\Worshell\\Worshell.csproj",
+      "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\A\\Documents\\GitHub\\discrete-math\\Worshell\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\myros\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\A\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

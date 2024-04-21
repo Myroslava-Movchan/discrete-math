@@ -1,0 +1,15 @@
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\obj\Debug\net8.0\Worshell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\obj\Debug\net8.0\Worshell.AssemblyInfoInputs.cache
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\obj\Debug\net8.0\Worshell.AssemblyInfo.cs
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\obj\Debug\net8.0\Worshell.csproj.CoreCompileInputs.cache
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\obj\Debug\net8.0\Worshell.sourcelink.json
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\bin\Debug\net8.0\Worshell.exe
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\bin\Debug\net8.0\Worshell.deps.json
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\bin\Debug\net8.0\Worshell.runtimeconfig.json
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\bin\Debug\net8.0\Worshell.dll
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\bin\Debug\net8.0\Worshell.pdb
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\obj\Debug\net8.0\Worshell.dll
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\obj\Debug\net8.0\refint\Worshell.dll
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\obj\Debug\net8.0\Worshell.pdb
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\obj\Debug\net8.0\Worshell.genruntimeconfig.cache
+C:\Users\A\Documents\GitHub\discrete-math\Worshell\obj\Debug\net8.0\ref\Worshell.dll
